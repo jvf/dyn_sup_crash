@@ -1,6 +1,7 @@
 # Demo `DynamicSupervisor` crash when restarting child
 
-Example project to demonstrate a potential bug in `Elixir.DynamicSupervisor`. 
+Example project to demonstrate a potential bug in `Elixir.DynamicSupervisor`.
+See [elixir-lang/elixir/issues/7369](https://github.com/elixir-lang/elixir/issues/7369) for the bug report.
 Run the following to reproduce:
 
 ```bash
