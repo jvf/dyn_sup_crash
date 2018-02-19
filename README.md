@@ -1,6 +1,6 @@
-# Demo
+# Demo `DynamicSupervisor` crash when restarting child
 
-Demo to demonstrate a potential bug in `Elixir.DynamicSupervisor`. 
+Example project to demonstrate a potential bug in `Elixir.DynamicSupervisor`. 
 Run the following to reproduce:
 
 ```bash
